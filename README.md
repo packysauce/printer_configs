@@ -4,9 +4,9 @@
 # Printers
 
 - Amy "ai3ms" - Anycubic i3 Mega S
- - Original hardware, but the board is an Octopus
+ - ~~Original hardware~~, but the board is an Octopus
+  - what have i done??
 
 - Bender the Ender (...3 Pro)
- - Mostly original
- - printed [ProperPrinting's Quick changer for it](https://www.thingiverse.com/thing:3369444)
+ - Mostly original, second Z screw
  - BTT SKR2 (I accidentally put a BLTouch in 5V mode and blew the 3.3v regulator on the 4.2.2 board)
